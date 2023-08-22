@@ -2,7 +2,8 @@
 This repository contains tasks for web development internship at codesoft. It contains folowing tasks : 
 
 1.PROTFOLOIO WEBSITE
-    Portfolio website is created using the concepts of html,css. It contains 
+
+ Portfolio website is created using the concepts of html,css. It contains 
    
    - Header Section: A navidgation bar that contains home, about , skills , projects and contact. 
    - About Section: It contains a short discription of myself along with soft skills and expierences. It also includes  a link to download my resume in PDF format.
@@ -12,6 +13,7 @@ This repository contains tasks for web development internship at codesoft. It co
 
 
 2.CALCULATOR
+
 Calculator is created using html,css and js. It contains
 
 - Basic Addition, Subtraction, Multiplication and Division operations with decimals as well as whole number.
