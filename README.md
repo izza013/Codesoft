@@ -21,6 +21,7 @@ Calculator is created using html,css and js. It contains
 
 
 3.TODO LIST
+
 Todo-list is created html,css and js. It contains
 - Input option to add tasks to the list
 - The tasks in the list can be deleted, updated and marked check on completion.
