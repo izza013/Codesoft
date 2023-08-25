@@ -1,0 +1,140 @@
+  body {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        background: linear-gradient(to right, #ec6f66, #f3a183)
+    }
+
+    h1 {
+        font-size: 60px;
+        padding-bottom: 10px;
+        text-indent: 20px;
+    }
+
+    h3 {
+        font-size: 35px;
+        text-align: center;
+        margin-left: 10px;
+        padding-top: 0%;
+        text-indent: 20px;
+
+
+    }
+
+    button {
+        height: 40px;
+        cursor: pointer;
+        text-align: center;
+        margin: 5px;
+        padding: auto;
+        width: 130px;
+        border-radius: 40px;
+        border-style: none;
+        outline: none;
+        transition: all 0.5s;
+        background-color: rgb(44, 4, 4);
+        color: aliceblue;
+
+    }
+
+    button:hover {
+        background-color: #113746;
+        color: white;
+        cursor: pointer;
+    }
+
+    .update {
+        position: relative;
+        left: 5px;
+        text-align: center;
+
+    }
+
+    .delete {
+        position: relative;
+        left: 5px;
+        text-align: center;
+    }
+
+    .delete:hover {
+        background-color: rgb(167, 2, 2);
+    }
+
+    .update:hover {
+        background-color: rgb(8, 75, 8);
+    }
+
+    ul {
+
+        list-style-type: none;
+        list-style-position: inside;
+        -ms-layout-grid-type: fixed;
+    }
+
+    input {
+        margin: 5px;
+        padding: 5px;
+        height: 35px;
+        width: 35%;
+        text-align: center;
+        outline: none;
+        border-style: none;
+        background-color: rgb(9, 48, 9);
+        border-radius: 10px;
+        color: beige;
+        font-size: 17px;
+    }
+
+    input:focus {
+        border-style: solid;
+        border-width: 2px;
+        border-color: black;
+
+    }
+
+    #inputContainer {
+        margin: 15px;
+        margin-top: 70px;
+        padding: 15px;
+        align-items: center;
+        text-align: center;
+        color: black;
+        text-decoration: bold;
+
+
+    }
+
+
+
+    #taskContiner {
+        text-align: center;
+        margin: 10px;
+        margin-left: 27%;
+        padding: 15px;
+        align-items: center;
+        border-style: solid;
+        border-width: 4px;
+        border-color: #094d3b;
+        background-color: beige;
+        box-sizing: border-box;
+        display: flexbox;
+        justify-content: space-around;
+        width: 45%;
+        height: auto;
+        border-radius: 10px;
+
+
+
+    }
+
+    .checked {
+        text-decoration: line-through;
+    }
+
+    li {
+        margin: 5px, 1px;
+        padding: 2px, 2px;
+    }
+
+    .todo {
+        align-self: center;
+    }
