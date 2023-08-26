@@ -5,7 +5,7 @@ This repository contains tasks for web development internship at codesoft. It co
 
  Portfolio website is created using the concepts of html,css. It contains 
    
-   - Header Section: A navidgation bar that contains home, about , skills , projects and contact. 
+   - Header Section: A navigation bar that contains home, about , skills , projects and contact. 
    - About Section: It contains a short discription of myself along with soft skills and expierences. It also includes  a link to download my resume in PDF format.
    - Skills Section: All my technical skills which includes web development, UI/UX design and SEO.
    - Projects Section: Showcase   my  projects along with short discriptions  and images.
